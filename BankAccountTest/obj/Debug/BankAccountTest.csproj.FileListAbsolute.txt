@@ -1,2 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccountTest\BankAccountTest\bin\Debug\BankAccountTest.exe.config
-c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccountTest\BankAccountTest\obj\Debug\BankAccountTest.csprojResolveAssemblyReference.cache
